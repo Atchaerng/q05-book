@@ -22,9 +22,7 @@ function Profile() {
       <div className="lg:py-16">
         <article className="space-y-4 text-gray-600">
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut qui hic atque tenetur quis
-            eius quos ea neque sunt, accusantium soluta minus veniam tempora deserunt? Molestiae
-            eius quidem quam repellat.
+          "The more that you read, the more things you will know. The more that you learn, the more places you'll go." Dr. Seuss, I Can Read With My Eyes Shut!" "ยิ่งเราอ่านมากเท่าไหร่ เราก็ยิ่งรู้เยอะมากขึ้นเท่านั้น ยิ่งเราเรียนรู้มากขึ้นเท่าไหร่ ก็ยิ่งมีสถานที่ที่เราจะไปมากขึ้นเท่านั้น" ดร.ซูสส์ นักสร้างสรรค์หนังสือเด็ก จากหนังสือ I Can Read With My Eyes Shut!"
           </p>
 
           <p>
