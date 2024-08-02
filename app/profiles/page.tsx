@@ -26,11 +26,7 @@ function Profile() {
           </p>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum explicabo quidem
-            voluptatum voluptas illo accusantium ipsam quis, vel mollitia? Vel provident culpa
-            dignissimos possimus, perferendis consectetur odit accusantium dolorem amet voluptates
-            aliquid, ducimus tempore incidunt quas. Veritatis molestias tempora distinctio
-            voluptates sint! Itaque quasi corrupti, sequi quo odit illum impedit!
+          "Books are the plane, and the train, and the road. They are the destination, and the journey. They are home." Anna Quindlen, How Reading Changed My Life" "หนังสือเป็นทั้งเครื่องบิน รถไฟ และถนน เป็นทั้งจุดหมายปลายทางและการผจญภัย หนังสือคือบ้าน"
           </p>
         </article>
       </div>
